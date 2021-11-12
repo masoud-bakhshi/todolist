@@ -2,4 +2,4 @@
 
 # React js
 
-# just visit my webApp http://devcodebase.com
+just visit my webApp http://devcodebase.com
