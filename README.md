@@ -10,4 +10,4 @@ yarn, yarn start
 
 # picture
 
-![TodoList](https://github.com/masoud-bakhshi/todolist/blob/main/todolist.png)
+![TodoList](https://github.com/masoud-bakhshi/todolist/blob/main/todolist.jpg)
